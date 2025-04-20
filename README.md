@@ -1,14 +1,12 @@
-**# YOLOv8 Object Detection with Custom Dataset**
+# YOLOv8 Object Detection with Custom Dataset
 
-This project demonstrates the use of YOLOv8 (You Only Look Once, Version 8) for object detection on custom datasets. It uses the Ultralytics YOLOv8 model to train and detect objects in images. The dataset used for this demonstration is the COCO8 dataset, and the model is trained to detect multiple objects such as cars, dogs, and more.
+A powerful and efficient **YOLOv8 Object Detection** project, tailored to detect custom objects in images. This project leverages the **Ultralytics YOLOv8** model and is trained on a custom dataset to perform high-performance object detection.
 
-**# Features**
-- YOLOv8 for real-time object detection.
-
-- Custom Training: Trained on the COCO8 dataset.
-
-- Inference on Images: Detects objects in a given image and saves the results.
-
-- Saved Detection Labels: Saves the detected objects' information in a text file.
-
-- Display Detected Image: Displays the detected image with bounding boxes.
+## Features
+- Real-time object detection with YOLOv8
+- **Custom Dataset** Training
+- Outputs images with bounding boxes on detected objects
+- **Easy Setup** with clear instructions
+- **Supports multiple objects detection** (e.g., cars, animals, etc.)
+- Train the model using your dataset by following the training instructions.
+- After training, use the model to detect objects in new images.
